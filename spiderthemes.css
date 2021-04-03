@@ -1,0 +1,9 @@
+#store-style { margin: 0 0 20px; }
+a.download { background: linear-gradient(40deg,#39aeff,#3cff53)!important } 
+ 
+#store-style { margin: 0 0 20px; }
+a.download { background: linear-gradient(40deg,#39aeff,#3cff53)!important } 
+ 
+a.demo, a.download { background: linear-gradient(40deg,#ff43c0,#ffa95c); position: relative; display: block; font-weight: 500; padding: 20px; margin: 0 auto; color: #fff!important; text-align: center; border: 0; border-radius: 5px;font-size: 13px;box-shadow: 0 28px 0px rgb(0 0 0 / 0%), 0 3px 5px rgb(0 0 0 / 11%); transition: 0.3s ease-in-out;}
+a.download:before { margin-right: 10px; content: "\f019"; font-family: "FontAwesome"; } a.demo:before { margin-right: 4px; content: '\f135'; font-family: "FontAwesome"; }
+a.demo:hover, a.download:hover { box-shadow: 0 10px 20px rgb(0 0 0 / 12%), 0 6px 6px rgb(0 0 0 / 15%); transform: scale(0.97); }
