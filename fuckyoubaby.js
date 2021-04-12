@@ -1,1 +1,2 @@
-document.getElementById('480p').innerHTML = `<iframe src="https://trendapk.in/480p.html" width="auto" height="auto" frameborder="0" allowfullscreen='true' webkitallowfullscreen='true' msallowfullscreen='true'></iframe>`
+document.getElementById('480p').innerHTML = `<iframe src="https://trendapk.in/480p.html" width="auto" height="auto" frameborder="0" allowfullscreen='true' webkitallowfullscreen='true' msallowfullscreen='true'></iframe>`;
+document.getElementById('720p').innerHTML = `<iframe src="https://trendapk.in/720p.html" width="auto" height="auto" frameborder="0" allowfullscreen='true' webkitallowfullscreen='true' msallowfullscreen='true'></iframe>`
