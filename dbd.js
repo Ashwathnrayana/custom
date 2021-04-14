@@ -1,2 +1,2 @@
 
-window.location(https://www.moddedguru.com)
+window.location = "https://www.moddedguru.com";
