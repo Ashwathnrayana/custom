@@ -1,4 +1,4 @@
-//<![CDATA[
+
  var tryCount = 0;
  var minimalUserResponseInMiliseconds = 200;
  function check() {
@@ -18,4 +18,3 @@ setTimeout(check, 100);
  }
  check();
 
-//]]>
